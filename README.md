@@ -1,2 +1,2 @@
 # spotify
-Collaberated Spotify clone project
+Collaberated Spotify Clone project
